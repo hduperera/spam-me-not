@@ -1,6 +1,4 @@
-# The Spam Filter That Taught Itself
 
-*An intro to machine learning, told as a story.*
 
 It's 1999. Inboxes are filling up with junk, and you're the new programmer told to stop it. Back then, spam filters weren't clever at all: just hand-written keyword lists ("block anything that says *Viagra*"), blocklists of known spammers, and rules for blocking suspicious servers.
 
