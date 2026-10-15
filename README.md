@@ -1,6 +1,6 @@
 
 
-It's 1999. Inboxes are filling up with junk, and you're the new programmer told to stop it. Back then, spam filters weren't clever at all: just hand-written keyword lists ("block anything that says *Viagra*"), blocklists of known spammers, and rules for blocking suspicious servers.
+It's 1999. Inboxes are filling up with junk, and you're the new programmer told to stop it. Back then, spam filters weren't clever at all: just hand-written keyword lists ("block anything that says *Free"), blocklists of known spammers, and rules for blocking suspicious servers.
 
 This notebook puts you in those shoes. You'll build a 1999-style spam filter by hand on 5,572 real text messages: a keyword list, then a blocklist, then more and more rules. You'll watch them misfire, discover that clues need weights, tune those weights yourself, and get ambushed by spammers who change their spelling. Then the story jumps to 2002, when Paul Graham's essay *"A Plan for Spam"* made Bayesian filtering famous. You'll do what he did, and a four-line machine learning model beats your best effort and even teaches you something about the data.
 
